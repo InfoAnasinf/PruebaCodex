@@ -4,8 +4,8 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
-            "program": "${workspaceFolder}/index.js",
+            "name": "Iniciar Landing Page",
+            "program": "${workspaceFolder}/server.js",
             "skipFiles": [
                 "<node_internals>/**"
             ]
