@@ -1,0 +1,12 @@
+{
+  "name": "pruebacodex-event-landing",
+  "version": "1.0.0",
+  "description": "Landing page de ejemplo para un evento.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No hay pruebas\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
